@@ -19,3 +19,5 @@ If you are developing a production application, we recommend using TypeScript wi
 ## To start run
 npm install
 npm run dev
+
+This works with a mission events display running on the backend from a Qt backend: https://github.com/spacemig/med-server-demo/
